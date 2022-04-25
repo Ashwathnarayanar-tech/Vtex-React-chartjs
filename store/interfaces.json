@@ -1,0 +1,20 @@
+{
+    "BarChart": {
+        "component": "BarChart"
+    },
+    "LineChart": {
+        "component": "LineChart"
+    },
+    "PieChart": {
+        "component": "PieChart"
+    },
+    "ChartRef": {
+        "component": "ChartRef"
+    },
+    "ScatterChart": {
+        "component": "ScatterChart"
+    },
+    "BubbleChart": {
+        "component": "BubbleChart"
+    }
+}
